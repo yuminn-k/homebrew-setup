@@ -126,6 +126,7 @@ mas "RunCat", id: 1429033973
 mas "Save to Pocket", id: 1477385213
 mas "VCE Simulator", id: 1459356760
 mas "KakaoTalk", id: 869223134
+mas "Slack", id: 803453959
 
 # VSCode extensions
 vscode "adpyke.codesnap"
